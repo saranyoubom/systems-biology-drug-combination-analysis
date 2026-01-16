@@ -1100,6 +1100,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 **Total Output Figures:** 25+  
 **Estimated Analysis Time:** 2-4 hours (complete pipeline)  
 
-For questions or support, please contact: [your.email@institution.edu]
+For questions or support, please contact: [saranyou.o@chula.ac.th]
 
 ---
