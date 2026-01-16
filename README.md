@@ -4,7 +4,7 @@
 
 **Project:** Integrative Systems Biology Analysis of Notch and Wnt Signaling Pathways in INS1 β-Cells with Drug Repositioning Strategy  
 **Version:** 1.0  
-**Date:** January 2026  
+**Date:** 16 January 2026  
 **Platform:** R 4.0+  
 **License:** MIT  
 
@@ -919,176 +919,17 @@ cl <- makeCluster(detectCores() - 1)
 
 ---
 
-## 10. CITATION
-
-### PRIMARY CITATION:
-
-If you use this pipeline, please cite:
-
-> [Author Names]. (2026). Notch and Wnt Signaling Crosstalk Regulates Pancreatic β-Cell Function: Integrative Network Pharmacology Approach for Type 2 Diabetes Drug Repositioning. *[Journal Name]*, *[Volume]*([Issue]), [Pages]. https://doi.org/[DOI]
-
-### BiBTEX:
-
-```bibtex
-@article{author2026notch,
-  title={Notch and Wnt Signaling Crosstalk Regulates Pancreatic β-Cell 
-         Function: Integrative Network Pharmacology Approach for Type 2 
-         Diabetes Drug Repositioning},
-  author={[Author Names]},
-  journal={[Journal Name]},
-  volume={[Volume]},
-  number={[Issue]},
-  pages={[Pages]},
-  year={2026},
-  publisher={[Publisher]},
-  doi={[DOI]}
-}
-```
-
-### KEY METHODS AND TOOLS TO CITE:
-
-1. **R Core:**
-   - R Core Team (2023). R: A language and environment for statistical computing. R Foundation for Statistical Computing, Vienna, Austria.
-
-2. **WGCNA:**
-   - Langfelder P, Horvath S (2008). WGCNA: an R package for weighted correlation network analysis. *BMC Bioinformatics*, 9:559.
-
-3. **igraph:**
-   - Csardi G, Nepusz T (2006). The igraph software package for complex network research. *InterJournal*, Complex Systems, 1695.
-
-4. **ggplot2:**
-   - Wickham H (2016). *ggplot2: Elegant Graphics for Data Analysis*. Springer-Verlag New York.
-
-5. **STRING Database:**
-   - Szklarczyk D, et al. (2023). The STRING database in 2023: protein-protein association networks. *Nucleic Acids Research*, 51(D1):D638-D646.
-
-6. **DrugCentral:**
-   - Ursu O, et al. (2017). DrugCentral: online drug compendium. *Nucleic Acids Research*, 45(D1):D932-D939.
-
-7. **ggsci (NPG palette):**
-   - Xiao N (2018). ggsci: Scientific Journal and Sci-Fi Themed Color Palettes for 'ggplot2'. R package version 2.9.
-
----
-
-## 11. CONTACT INFORMATION
-
-### PROJECT MAINTAINER:
-
-- **Name:** [Your Name]
-- **Email:** [your.email@institution.edu]
-- **ORCID:** [0000-0000-0000-0000]
-- **GitHub:** https://github.com/[your-username]/[repository-name]
-- **Twitter:** @[your_handle]
-
-### INSTITUTIONAL AFFILIATION:
-
-[Department Name]  
-[Institution Name]  
-[Address]  
-[City, Country]
-
-### CONTRIBUTING:
-
-We welcome contributions to improve this pipeline!
-
-**To report bugs or request features:**
-- GitHub Issues: [repository-url]/issues
-- Email: [your.email@institution.edu]
-
-**To contribute code:**
-1. Fork the repository
-2. Create a feature branch
-3. Submit a pull request with detailed description
-
-### COLLABORATION INQUIRIES:
-
-For research collaborations or commercial licensing:
-- Email: [collaboration.email@institution.edu]
-
-### DATA AVAILABILITY:
-
-All raw data and processed files are available at:
-- Figshare: [DOI link]
-- Zenodo: [DOI link]
-- GitHub: [repository URL]
-
----
-
-## ACKNOWLEDGMENTS
-
-### FUNDING:
-
-This work was supported by:
-- [Grant Agency] - Grant Number: [Grant ID]
-- [Fellowship Program]
-- [Institutional Support]
-
-### WE ACKNOWLEDGE:
-
-- [Collaborators/Contributors]
-- [Core Facility] for technical support
-- [Database] for data access
-- [Computational Resources] for analysis infrastructure
-
-### CONFLICTS OF INTEREST:
-
-The authors declare no competing financial interests.
-
----
-
-## VERSION HISTORY
-
-### v1.0 (January 2026):
-
-- Initial public release
-- Complete pipeline (Figures 1-6 + Supplementary)
-- MLSS v4.0 algorithm finalized
-- Regulatory approval integration (FDA/EMA/PMDA)
-- Comprehensive documentation
-
-### PLANNED UPDATES:
-
-- Additional validation datasets
-- Extended drug database coverage (ChEMBL integration)
-- Machine learning enhancements for MLSS
-- Interactive web-based visualization (Shiny app)
-- Python implementation for cross-platform compatibility
-
----
-
 ## LICENSE INFORMATION
 
 **MIT License**
 
-Copyright (c) 2026 [Your Name/Institution]
+Copyright (c) 2026 [Saranyou Oontawee, Chulalongkorn University]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
----
-
-## ADDITIONAL RESOURCES
-
-### TUTORIALS:
-
-- Video walkthrough: [YouTube link]
-- Step-by-step guide: [Blog post link]
-- Webinar recording: [Link]
-
-### RELATED PUBLICATIONS:
-
-- Preliminary study: [Citation]
-- Protocol paper: [Citation]
-- Review article: [Citation]
-
-### COMMUNITY:
-
-- Discussion forum: [Link]
-- Slack/Discord channel: [Invite link]
-- Mailing list: [Subscribe link]
 
 ---
 
